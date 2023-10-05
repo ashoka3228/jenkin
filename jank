@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Server Hello World: Maven</title>
+  </head>
+  <body style="background-color:powderblue;">
+    <h1 style="color:red;>this is my first website, hello devops engineers</h1>
+    <h1 style="background-color:DodgerBlue;">hello this is devops</h1>
+    <img src="img_girl.jpg" alt="Gi">
+    <a href="url">link text</a>
+    <h1 style="border:2px solid Tomato;">Hello World</h1>
+    <p style="color:blue;"> tomcat and jenkins</p>
+    <p>Hello world!</p>
+  </body>
+</html>
